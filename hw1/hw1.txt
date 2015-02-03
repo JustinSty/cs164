@@ -1,0 +1,13 @@
+CS164 Homework #1, Spring 2015
+
+
+1. subsequence: 2^N
+   substring:(n+1)*n/2
+
+
+2. 
+ a. binary sequence starts and ends with 0
+ b. any sequence of 0s and 1s
+ c. binary sequence with the third smallest bit is 0
+ d. any binary sequence consist of three 1s
+ e. any sequence of 0s and 1s
